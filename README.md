@@ -41,7 +41,7 @@ IIS Web Server was installed to host ASP.NET web applications and static website
 <img src="https://i.imgur.com/XvCF7Ne.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Web Platform Istaller was downloaded to help keep up-to-date with the latest components of the Microsoft Web Platform, which  includes Internet Information Services (IIS), and SQL Server Express. This is a simple tool to allow other web applications to run smooth.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/G6urKec.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket is a support ticket system that was installed to improve customer service and experience. It is compatible with any operating system, brings many features and solutions for help desk. The osTicket software uses PHP as a programming language and uses a MysQL database to store information. 
 </p>
 <br />
 
