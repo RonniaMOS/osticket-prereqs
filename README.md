@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/nuvuQUD.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M7fpYuw.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 IIS Web Server was installed to host ASP.NET web applications and static websites. It can also be used as an FTP server, host WCF services, and be extended to host web applications built on other platforms such as PHP used for osTicketing. To enable IIS on Windows Server, you can either use PowerShell or Server Manager. In this installation, PowerShell was used. 
