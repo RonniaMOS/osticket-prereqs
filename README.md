@@ -6,7 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-om)
 
 <h2>Environments and Technologies Used</h2>
 
